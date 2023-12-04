@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #EFF7F6;
+
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px;
+    padding-left: 20px;
+    margin-bottom: 50px;
+
+    
+}
+
+.main{
+    display: flex;
+    margin: 100px 100px;
+    border: 1px solid black;    
+    background: white;
+    padding-right: 10px;
+}
+
+.text{
+    margin-left: 25px;
+}
+
+.second{
+    font-size: 10px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.bookmark{
+    padding-left: 20px;
+    font-size: 15px;
+    font-weight: lighter;
+}
